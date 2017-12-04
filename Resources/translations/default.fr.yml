@@ -49,6 +49,7 @@ layout_config:
 
 layout_model:
     upload: Ajouter un modèle
+    update: Mettre à jour un modèle
     list: Liste des modèles
     uploaded: Modèle enregistré
     manage: Gestion des modèles
